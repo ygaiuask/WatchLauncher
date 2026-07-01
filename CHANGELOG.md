@@ -1,3 +1,10 @@
+## vv1.1.4
+
+- Add WatchLauncher module (fix embedded repo issue)
+- Add WatchLauncher app module source code
+- Initial commit: WatchLauncher - Android watch launcher based on Forigon
+
+
 ## vv1.1.3-watch (WatchLauncher Fork)
 
 - 适配 Android 8.1 (API 27): targetSdk 下调至 27

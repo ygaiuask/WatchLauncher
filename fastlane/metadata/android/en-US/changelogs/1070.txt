@@ -1,0 +1,3 @@
+- Add WatchLauncher module (fix embedded repo issue)
+- Add WatchLauncher app module source code
+- Initial commit: WatchLauncher - Android watch launcher based on Forigon

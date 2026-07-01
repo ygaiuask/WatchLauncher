@@ -28,8 +28,8 @@ android {
         applicationId = "app.forigon"
         minSdk = 24
         targetSdk = 27
-        versionCode = 1060
-        versionName = "v1.1.3-watch"
+        versionCode = 1070
+        versionName = "v1.1.4"
     }
 
     val enableApkSplits = (providers.gradleProperty("enableApkSplits").orNull ?: "true").toBoolean()
